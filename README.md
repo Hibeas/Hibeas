@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm graduate of technical school and have a title of IT technician. <br>I'm currently doing curses related to programming and general IT.<br>I specialize in network management and website development, but I'm also intrested in mobile applications.
+🎓 I'm graduate of technical school and have a title of IT technician. <br>📖 I'm currently doing curses related to programming and general IT.<br>💻 I specialize in network management and website development, but I'm also intrested in mobile applications.
 
 
 # 💻 Tech Stack:
