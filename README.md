@@ -1,7 +1,5 @@
 # 💫 About Me:
-🎓 I'm graduate of technical school and have a title of IT technician. Currently studying Data Engennirign on way to finish it in december 2026. <br>📖 I'm currently doing curses related to programming and general IT.<br>🖥️ I specialize in network management and website development, but I'm also intrested in mobile applications.
-
-Rpubs link : https://rpubs.com/SzySka
+I am a Data Engineering student at the Gdańsk University of Technology with a background as a Certified IT Technician. While my studies focus on data management and architecture, I am a builder at heart—currently diving deep into Game Development to challenge my low-level logic and creative problem-solving skills.
 
 
 # 💻 Tech Stack:
